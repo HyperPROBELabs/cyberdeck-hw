@@ -1,10 +1,10 @@
 No.	Quantity	Comment	Value	Option	Link	Status
-1.	1	Ultra-Low Head Hexalobular Screw	M2x0.4x8	50pcs M2/8mm	https://a.co/d/05IATbxW	Available
-2.	1	Metric Hex Nut	M2x0.4x1.2	M2 50pcs	https://a.co/d/08POY6ck	Available
-3.	1	Metric Flat Washer	M3 D6/3.2 T0.5	M3x6mmx0.5mm	https://a.co/d/0e98ipRb	Available
-4.	1	Rod-End-Bearing	M3/1:10RC	(any color)	https://a.co/d/0heQlGqN	Available
-5.	1	Torsion Spring	--	--	--	Custom
-6.	1	Rod-Body	--	--	--	Custom
-7.	1	Rod-Latch	--	--	--	Custom
-8.	1	Rod-Hat	--	--	--	Custom
-9.	1	TPU Gasket	--	--	--	Custom
+CYB-ROD-001	1	Rod-End-Bearing	M3/1:10RC	(any color)	https://a.co/d/0heQlGqN	Available
+CYB-ROD-002	1	Metric Flat Washer	M3 D6/3.2 T0.5	M3x6mmx0.5mm	https://a.co/d/0e98ipRb	Available
+CYB-ROD-003	1	TPU Gasket	--	--	--	Custom
+CYB-ROD-004	1	Rod-Body	--	--	--	Custom
+CYB-ROD-005	1	Metric Hex Nut	M2x0.4x1.2	M2 50pcs	https://a.co/d/08POY6ck	Available
+CYB-ROD-006	1	Torsion Spring	--	--	--	Custom
+CYB-ROD-007	1	Rod-Latch	--	--	--	Custom
+CYB-ROD-008	1	Rod-Hat	--	--	--	Custom
+CYB-ROD-009	1	Ultra-Low Head Hexalobular Screw	M2x0.4x8	50pcs M2/8mm	https://a.co/d/05IATbxW	Available
