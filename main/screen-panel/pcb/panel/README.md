@@ -21,7 +21,7 @@ Design and prototyping in progress.
 ├── BOM-*.csv      # Bill of Materials
 └── CPL-*.csv      # Component Placement List (Pick & Place)
 
-./pcb-model.step.xz  # Compressed 3D STEP model of the PCB
+./panel-pcb-model*.step.xz  # Compressed 3D STEP model of the PCB
 ```
 
 ---
@@ -33,7 +33,7 @@ Due to GitHub file size limits, the PCB 3D model is compressed using `xz`.
 To extract:
 
 ```bash
-xz -dk pcb-model.step.xz
+xz -dk panel-pcb-model.step.xz
 ```
 
 You can then import the `.step` file into your CAD software.
